@@ -50,6 +50,8 @@ Nota: si ya tenías creados virtualhosts en xampp, no es necesario escribir nuev
 
 Nota: Los tres proyectos se están ejecutando con bases de datos SQLITE
 
+IMPORTANTE: Recuerda que debes descomprimir la base de datos en la carpeta database de cada uno de los proyectos, además el ".env.example" debemos quitarle el nombre ".example" en cada uno de los proyectos para que la aplicación no te genere error. Quizá te pueda a llegar a dar un error de sesión, ese error se soluciona ejecutando la siguente línea de comando php artisan config:cache
+
 Esos son los tres virtualhost que necesitamos para poder ejecutar correctamente la API y sus clientes.
 Nota: Es importante que la carpetas llamadas api.rick-morty, client1.rick-morty y client2.rick-morty estén en la carpeta htdocs de xampp
 
