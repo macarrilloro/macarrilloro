@@ -97,7 +97,7 @@ Para almacenar un registro en la tabla characters debemos usar la siguiente ruta
 para actualizar un registro en la tabla characters debemos usar la siguiente ruta: Put:http://api.rick-morty.test/v1/characters/$id
 Para eliminar un registro en la tabla characters debemos usar la siguiente ruta: Delete:http://api.rick-morty.test/v1/characters/$id
 
-He de aclarar que aparte de Laravel Passport, también se utilizó Laravel breeze, Vue, Axios, SweetAlert2 y los estilos de Tailwind
+He de aclarar que aparte de Laravel Passport, también se utilizó Laravel breeze, Blade, Vue, Axios, SweetAlert2 y los estilos de Tailwind
 
 De antemano agradezco la oportunidad brindada para demostrar mis conocimientos en el tema de Laravel, acá demuestro que tengo conocimiento no solo en back, sino en front.
 
