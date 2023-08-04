@@ -1,5 +1,5 @@
 Hola buen día, espero que todo esté bien.
-En este espacio explicaré como fue realizada la API, primero que todo se leyó el querimiento para poderlo comprender, después de eso pasé a modelar la base de datos (la encontrarán adjunto)
+En este espacio explicaré como fue realizada la API, primero que todo se leyó el requerimiento para poderlo comprender, después de eso pasé a modelar la base de datos (la encontrarán adjunto)
 así fue como la comprendí y como realicé todo el maquetado de la api.
 Al momento de haber modelado la base de datos, instalé los programas para poder crear la API y los clientes, los programas que usé fueron: XAMPP para PHP, apache y uso de virtualhosts, Visual Studio Code,
 NodeJs para usar npm, composer, consola git bash, para el maquetado de la base de datos usé MySQL Workbench y por último Laravel.
